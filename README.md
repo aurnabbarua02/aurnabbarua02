@@ -10,7 +10,7 @@
 <p>I am currently working on improving my skills in full-stack development and exploring new technologies. I am also looking for opportunities to contribute to open-source projects and collaborate with others.</p>
 <br>
 <b>Contact</b>
-<p>Feel free to connect with me on [LinkedIn](https://linkedin.com/in/aurnab-barua-68567a266) or send me an email at aurnabbarua02@gmail.com.</p>
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/aurnab-barua-68567a266) or send me an email at aurnabbarua02@gmail.com.
 
 <!---
 aurnabbarua02/aurnabbarua02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
