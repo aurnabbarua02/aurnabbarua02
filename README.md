@@ -1,7 +1,7 @@
 <p>Hello! 👋 I'm Aurnab Barua, a Computer Science and Engineering graduate with a keen interest in software development, web development, and technology solutions. I recently completed my studies at Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.</p>
 <br>
 <b>Skills</b>
-<li>Languages: Java, Python, C++, PHP </li>
+<li>Languages: Java, Python, C++, PHP, Dart </li>
 <li>Web Development: HTML, CSS, JavaScript, Django, Angular</li>
 <li>Databases: MySQL, Oracle</li>
 <li>Tools & Platforms: Git, GitHub, Visual Studio Code, XAMPP</li>
