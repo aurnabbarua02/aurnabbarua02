@@ -1,6 +1,6 @@
-Hello, I'm Aurnab Barua, A Flutter App Developer. 
+# Hello, I'm Aurnab Barua, A Flutter App Developer. 
 
-# Email: aurnabbarua02@gmail.com
+### Email: aurnabbarua02@gmail.com
 
 Feel free to contact me!!!!!!
 <!---
